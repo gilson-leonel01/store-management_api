@@ -5,8 +5,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mosh-hamedani/spring-api-finished.git
-cd spring-api-finished
+git clone https://github.com/gilson-leonel01/store-management_api.git
+cd store-management_api
 ```
 
 ### 2. Configure Environment Variables
